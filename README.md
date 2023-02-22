@@ -10,11 +10,8 @@
 
 - 📫 How to reach me **masoudnazari.dev@gmail.com**
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudnazarii&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="masoudnazarii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoudnazarii&theme=tokyonight&show_icons=true&locale=en" alt="masoudnazarii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=masoudnazarii&theme=tokyonight" alt="masoudnazarii" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudnazarii&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="masoudnazarii"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
