@@ -1,17 +1,49 @@
-<h1 align="center">Hi 👋, I'm Masoud</h1>
-<h3 align="center">A frontend developer</h3>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<div align="center">
 
-- 🔭 I’m currently working on [My Blog](https://masoudblog.vercel.app/)
+# Hi, I'm Masoud 👋
 
-- 🌱 I’m currently learning **React**
+### Frontend Developer | React · Next.js · TypeScript
 
-- 💬 Ask me about **HTML & CSS**
+Building modern, responsive, and user-focused web experiences.
 
-- 📫 How to reach me **masoudnazari.dev@gmail.com**
-- [Portfolio](https://masoudnazarii.github.io/Portfolio/)
+[Portfolio](https://masoudnazarii.github.io/Portfolio/) · [Pattern Studio](https://patternstudio.ir) · [Email](mailto:masoudnazari.dev@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
+</div>
 
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> </p>
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="Developer animation" />
+
+### About Me
+
+- 💻 Focused on modern frontend development and web technologies.
+- 🚀 Building projects with React, Next.js, and TypeScript.
+- 🎨 Interested in clean UI, thoughtful design, and great user experiences.
+- 🛠️ Currently building **Pattern Studio** and reusable web development tools.
+- 🌱 Always exploring new technologies and improving my skills.
+
+<br clear="right" />
+
+### Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,postgres,prisma" />
+</p>
+
+### Let's Connect
+
+- 🌐 Portfolio: [masoudnazarii.github.io/Portfolio](https://masoudnazarii.github.io/Portfolio/)
+- 🏢 Studio: [patternstudio.ir](https://patternstudio.ir)
+- 📧 Email: [masoudnazari.dev@gmail.com](mailto:masoudnazari.dev@gmail.com)
+
+<div align="center">
+
+*Building, learning, and creating something better every day.*
+
+</div>
